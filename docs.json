@@ -11,28 +11,43 @@
   "navigation": {
     "languages": [
       {
-        "language": "en",
-        "groups": [
+        "tabs": [
           {
-            "group": "Welcome",
-            "icon": "house",
-            "pages": ["en/welcome/index", "en/welcome/about", "en/welcome/help"]
-          }
-        ]
-      },
-      {
-        "language": "es",
-        "groups": [
-          {
-            "group": "Bienvenido",
-            "icon": "house",
-            "pages": [
-              "es/Bienvenido/index",
-              "es/Bienvenido/acercade",
-              "es/Bienvenido/ayuda"
+            "tab": "Home",
+            "groups": [
+              {
+                "group": "Welcome",
+                "icon": "house",
+                "pages": [
+                  "en/index",
+                  "en/welcome/about",
+                  "en/welcome/help",
+                  "en/welcome/community"
+                ]
+              }
             ]
           }
-        ]
+        ],
+        "language": "en"
+      },
+      {
+        "tabs": [
+          {
+            "tab": "Casa",
+            "groups": [
+              {
+                "group": "Bienvenido",
+                "icon": "house",
+                "pages": [
+                  "es/index",
+                  "es/Bienvenido/acercade",
+                  "es/Bienvenido/ayunda"
+                ]
+              }
+            ]
+          }
+        ],
+        "language": "es"
       }
     ],
     "global": {
@@ -98,6 +113,10 @@
           {
             "href": "https://link.awfixer.com/terms",
             "label": "Terms of Service"
+          },
+          {
+            "href": "https://link.awfixer.com/privacy",
+            "label": "Privacy Policy"
           }
         ]
       }
