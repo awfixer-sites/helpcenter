@@ -33,7 +33,7 @@
               {
                 "group": "Home",
                 "icon": "house",
-                "pages": ["docs/corp/index"]
+                "pages": ["corp/index"]
               },
               {
                 "group": "Governance",
