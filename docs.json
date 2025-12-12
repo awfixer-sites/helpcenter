@@ -185,7 +185,7 @@
   "footer": {
     "links": [
       {
-        "header": "Legal",
+        "header": "Company",
         "items": [
           {
             "href": "https://link.awfixer.com/terms",
@@ -194,6 +194,14 @@
           {
             "href": "https://link.awfixer.com/privacy",
             "label": "Privacy Policy"
+          },
+          {
+            "href": "https://link.awfixer.com/discord",
+            "label": "Community"
+          },
+          {
+            "href": "https://link.awfixer.com/support",
+            "label": "Support Us"
           }
         ]
       },
@@ -203,6 +211,18 @@
           {
             "href": "https://link.awfixer.com/os",
             "label": "AWFixerOS"
+          },
+          {
+            "href": "https://link.awfixer.com/ma",
+            "label": "Modded Android"
+          },
+          {
+            "href": "https://link.awfixer.com/devos",
+            "label": "DevOS"
+          },
+          {
+            "href": "https://link.awfixer.com/browse",
+            "label": "Browse"
           }
         ]
       },
@@ -216,6 +236,10 @@
           {
             "href": "https://link.awfixer.com/crypto",
             "label": "AWFixer Crypto"
+          },
+          {
+            "href": "https://link.awfixer.com/scamdb",
+            "label": "ScamDB"
           }
         ]
       }
