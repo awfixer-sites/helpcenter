@@ -19,10 +19,29 @@
                 "group": "Welcome",
                 "icon": "house",
                 "pages": [
-                  "docs/index",
-                  "docs/welcome/about",
-                  "docs/welcome/help",
-                  "docs/welcome/community"
+                  "index",
+                  "welcome/about",
+                  "welcome/help",
+                  "welcome/community"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Corporate",
+            "groups": [
+              {
+                "group": "Home",
+                "icon": "house",
+                "pages": ["docs/corp/index"]
+              },
+              {
+                "group": "Governance",
+                "icon": "gavel",
+                "pages": [
+                  "corp/governance/leadership",
+                  "corp/governance/founders",
+                  "corp/governance/goals"
                 ]
               }
             ]
@@ -38,41 +57,41 @@
               {
                 "group": "Statements",
                 "pages": [
-                  "docs/legal/statements/privacy-policy",
-                  "docs/legal/statements/terms-of-service",
-                  "docs/legal/statements/terms-of-use",
-                  "docs/legal/statements/user-rights",
-                  "docs/legal/statements/eula",
-                  "docs/legal/statements/subprocessors"
+                  "legal/statements/privacy-policy",
+                  "legal/statements/terms-of-service",
+                  "legal/statements/terms-of-use",
+                  "legal/statements/user-rights",
+                  "legal/statements/eula",
+                  "legal/statements/subprocessors"
                 ]
               },
               {
                 "group": "Requests",
-                "pages": ["en/legal/requests/data-requests"]
+                "pages": ["legal/requests/data-requests"]
               },
               {
                 "group": "Agreements",
                 "icon": "handshake",
                 "pages": [
-                  "docs/legal/agreements/cla",
-                  "docs/legal/agreements/ecla",
-                  "docs/legal/agreements/sla",
-                  "docs/legal/agreements/spa"
+                  "legal/agreements/cla",
+                  "legal/agreements/ecla",
+                  "legal/agreements/sla",
+                  "legal/agreements/spa"
                 ]
               },
               {
                 "group": "Crypto",
                 "pages": [
-                  "docs/legal/crypto/binding",
-                  "docs/legal/crypto/blocknet",
-                  "docs/legal/crypto/ledger"
+                  "legal/crypto/binding",
+                  "legal/crypto/blocknet",
+                  "legal/crypto/ledger"
                 ]
               },
               {
                 "group": "Disclosures",
                 "pages": [
-                  "docs/legal/disclosures/disclosure",
-                  "docs/legal/disclosures/law"
+                  "legal/disclosures/disclosure",
+                  "legal/disclosures/law"
                 ]
               }
             ]
@@ -161,7 +180,7 @@
         "header": "Legal",
         "items": [
           {
-            "href": "https://link.awfixer.com/tos",
+            "href": "https://link.awfixer.com/terms",
             "label": "Terms of Service"
           },
           {
