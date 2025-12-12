@@ -26,6 +26,30 @@
                 ]
               }
             ]
+          },
+          {
+            "tab": "Legal",
+            "groups": [
+              {
+                "group": "Overview",
+                "icon": "house",
+                "pages": ["en/legal/index"]
+              },
+              {
+                "group": "Statements",
+                "pages": [
+                  "en/legal/statements/privacy-policy",
+                  "en/legal/statements/terms-of-service",
+                  "en/legal/statements/terms-of-use",
+                  "en/legal/statements/user-rights",
+                  "en/legal/statements/eula"
+                ]
+              },
+              {
+                "group": "Requests",
+                "pages": ["en/legal/requests/data-requests"]
+              }
+            ]
           }
         ],
         "language": "en"
@@ -127,5 +151,11 @@
       "discord": "https://discord.awfixer.com",
       "reddit": "https://reddit.com/r/awfixerandfriends"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/privacy",
+      "destination": "/legal/statements/privacy-policy"
+    }
+  ]
 }
