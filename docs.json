@@ -19,10 +19,10 @@
                 "group": "Welcome",
                 "icon": "house",
                 "pages": [
-                  "en/index",
-                  "en/welcome/about",
-                  "en/welcome/help",
-                  "en/welcome/community"
+                  "docs/index",
+                  "docs/welcome/about",
+                  "docs/welcome/help",
+                  "docs/welcome/community"
                 ]
               }
             ]
@@ -33,16 +33,17 @@
               {
                 "group": "Overview",
                 "icon": "house",
-                "pages": ["en/legal/index"]
+                "pages": ["docs/legal/index"]
               },
               {
                 "group": "Statements",
                 "pages": [
-                  "en/legal/statements/privacy-policy",
-                  "en/legal/statements/terms-of-service",
-                  "en/legal/statements/terms-of-use",
-                  "en/legal/statements/user-rights",
-                  "en/legal/statements/eula"
+                  "docs/legal/statements/privacy-policy",
+                  "docs/legal/statements/terms-of-service",
+                  "docs/legal/statements/terms-of-use",
+                  "docs/legal/statements/user-rights",
+                  "docs/legal/statements/eula",
+                  "docs/legal/statements/subprocessors"
                 ]
               },
               {
@@ -53,10 +54,25 @@
                 "group": "Agreements",
                 "icon": "handshake",
                 "pages": [
-                  "en/legal/agreements/cla",
-                  "en/legal/agreements/ecla",
-                  "en/legal/agreements/sla",
-                  "en/legal/agreements/spa"
+                  "docs/legal/agreements/cla",
+                  "docs/legal/agreements/ecla",
+                  "docs/legal/agreements/sla",
+                  "docs/legal/agreements/spa"
+                ]
+              },
+              {
+                "group": "Crypto",
+                "pages": [
+                  "docs/legal/crypto/binding",
+                  "docs/legal/crypto/blocknet",
+                  "docs/legal/crypto/ledger"
+                ]
+              },
+              {
+                "group": "Disclosures",
+                "pages": [
+                  "docs/legal/disclosures/disclosure",
+                  "docs/legal/disclosures/law"
                 ]
               }
             ]
@@ -73,9 +89,9 @@
                 "group": "Bienvenido",
                 "icon": "house",
                 "pages": [
-                  "es/index",
-                  "es/Bienvenido/acercade",
-                  "es/Bienvenido/ayunda"
+                  "translations/es/index",
+                  "translations/es/Bienvenido/acercade",
+                  "translations/es/Bienvenido/ayunda"
                 ]
               }
             ]
