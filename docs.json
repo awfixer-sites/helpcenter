@@ -181,7 +181,7 @@
   "redirects": [
     {
       "source": "/privacy",
-      "destination": "/legal/statements/privacy-policy"
+      "destination": "/docs/legal/statements/privacy-policy"
     }
   ]
 }
