@@ -181,7 +181,13 @@
   "redirects": [
     {
       "source": "/privacy",
-      "destination": "/docs/legal/statements/privacy-policy"
+      "destination": "/docs/legal/statements/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/tos",
+      "destination": "/docs/legal/statements/terms-of-service",
+      "permanent": true
     }
   ]
 }
