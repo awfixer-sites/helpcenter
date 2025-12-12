@@ -28,6 +28,16 @@
             ]
           },
           {
+            "tab": "Developer",
+            "groups": [
+              {
+                "group": "Home",
+                "icon": "house",
+                "pages": ["developer/index"]
+              }
+            ]
+          },
+          {
             "tab": "Corporate",
             "groups": [
               {
@@ -99,7 +109,9 @@
                 "group": "Disclosures",
                 "pages": [
                   "legal/disclosures/disclosure",
-                  "legal/disclosures/law"
+                  "legal/disclosures/law",
+                  "legal/disclosures/data",
+                  "legal/disclosures/user-data"
                 ]
               }
             ]
@@ -143,6 +155,11 @@
           "anchor": "Reddit",
           "href": "https://reddit.com/r/awfixerandfriends",
           "icon": "reddit"
+        },
+        {
+          "anchor": "X/Twitter",
+          "href": "https://x.com/awandfriends",
+          "icon": "x"
         }
       ]
     }
@@ -196,6 +213,10 @@
             "label": "Privacy Policy"
           },
           {
+            "href": "https://link.awfixer.com/subprocessors",
+            "label": "Subprocessors"
+          },
+          {
             "href": "https://link.awfixer.com/discord",
             "label": "Community"
           },
@@ -240,6 +261,31 @@
           {
             "href": "https://link.awfixer.com/scamdb",
             "label": "ScamDB"
+          }
+        ]
+      },
+      {
+        "header": "GitHub",
+        "items": [
+          {
+            "href": "https://github.com/awfixer-org",
+            "label": "AWFixerORG"
+          },
+          {
+            "href": "https://github.com/awfixer-os",
+            "label": "AWFixerOS"
+          },
+          {
+            "href": "https://github.com/modded-android",
+            "label": "Modded Android"
+          },
+          {
+            "href": "https://github.com/browse-os",
+            "label": "Browse"
+          },
+          {
+            "href": "https://github.com/awfixer-devos",
+            "label": "DevOS"
           }
         ]
       }
