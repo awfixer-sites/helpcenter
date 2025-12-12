@@ -118,25 +118,6 @@
           }
         ],
         "language": "en"
-      },
-      {
-        "tabs": [
-          {
-            "tab": "Casa",
-            "groups": [
-              {
-                "group": "Bienvenido",
-                "icon": "house",
-                "pages": [
-                  "translations/es/index",
-                  "translations/es/Bienvenido/acercade",
-                  "translations/es/Bienvenido/ayunda"
-                ]
-              }
-            ]
-          }
-        ],
-        "language": "es"
       }
     ],
     "global": {
