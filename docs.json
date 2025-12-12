@@ -52,7 +52,7 @@
               {
                 "group": "Overview",
                 "icon": "house",
-                "pages": ["docs/legal/index"]
+                "pages": ["legal/index"]
               },
               {
                 "group": "Statements",
@@ -68,6 +68,14 @@
               {
                 "group": "Requests",
                 "pages": ["legal/requests/data-requests"]
+              },
+              {
+                "group": "Trading Platform",
+                "pages": [
+                  "legal/trading-platform/compliance",
+                  "legal/trading-platform/assets",
+                  "legal/trading-platform/regulations"
+                ]
               },
               {
                 "group": "Agreements",
@@ -186,6 +194,28 @@
           {
             "href": "https://link.awfixer.com/privacy",
             "label": "Privacy Policy"
+          }
+        ]
+      },
+      {
+        "header": "Products",
+        "items": [
+          {
+            "href": "https://link.awfixer.com/os",
+            "label": "AWFixerOS"
+          }
+        ]
+      },
+      {
+        "header": "Projects",
+        "items": [
+          {
+            "href": "https://link.awfixer.com/games",
+            "label": "AWFixer Games"
+          },
+          {
+            "href": "https://link.awfixer.com/crypto",
+            "label": "AWFixer Crypto"
           }
         ]
       }
