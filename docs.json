@@ -48,6 +48,16 @@
               {
                 "group": "Requests",
                 "pages": ["en/legal/requests/data-requests"]
+              },
+              {
+                "group": "Agreements",
+                "icon": "handshake",
+                "pages": [
+                  "en/legal/agreements/cla",
+                  "en/legal/agreements/ecla",
+                  "en/legal/agreements/sla",
+                  "en/legal/agreements/spa"
+                ]
               }
             ]
           }
