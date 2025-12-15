@@ -24,6 +24,30 @@
                   "welcome/help",
                   "welcome/community"
                 ]
+              },
+              {
+                "group": "Account Information",
+                "icon": "address-card",
+                "pages": ["info/account/info", "info/account/centralization"]
+              }
+            ]
+          },
+          {
+            "tab": "Products",
+            "groups": [
+              {
+                "group": "Home",
+                "icon": "house",
+                "pages": ["products/index"]
+              },
+              {
+                "group": "AWFixerID",
+                "icon": "person",
+                "pages": [
+                  "products/awid",
+                  "products/awidapp/info",
+                  "products/awidapp/reasoning"
+                ]
               }
             ]
           },
