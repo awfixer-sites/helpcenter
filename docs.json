@@ -313,6 +313,10 @@
   },
   "redirects": [
     {
+      "source": "/docs/:slug*",
+      "destination": "/:slug*"
+    },
+    {
       "source": "/privacy",
       "destination": "/legal/statements/privacy-policy",
       "permanent": true
