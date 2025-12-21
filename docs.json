@@ -26,6 +26,15 @@
                 ]
               },
               {
+                "group": "Information",
+                "icon": "info",
+                "pages": [
+                  "info/index",
+                  "info/reg/regulation",
+                  "info/reg/moderation"
+                ]
+              },
+              {
                 "group": "Account Information",
                 "icon": "address-card",
                 "pages": ["info/account/info", "info/account/centralization"]
@@ -305,12 +314,12 @@
   "redirects": [
     {
       "source": "/privacy",
-      "destination": "/docs/legal/statements/privacy-policy",
+      "destination": "/legal/statements/privacy-policy",
       "permanent": true
     },
     {
       "source": "/tos",
-      "destination": "/docs/legal/statements/terms-of-service",
+      "destination": "/legal/statements/terms-of-service",
       "permanent": true
     }
   ]
