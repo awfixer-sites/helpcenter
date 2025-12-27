@@ -275,6 +275,10 @@
           {
             "href": "https://link.awfixer.com/scamdb",
             "label": "ScamDB"
+          },
+          {
+            "href": "https://link.awfixer.com/ai",
+            "label": "AWFixerAI"
           }
         ]
       },
@@ -324,6 +328,11 @@
     {
       "source": "/tos",
       "destination": "/legal/statements/terms-of-service",
+      "permanent": true
+    },
+    {
+      "source": "/mission",
+      "destination": "https://awfixer.foundation/mission",
       "permanent": true
     }
   ]
